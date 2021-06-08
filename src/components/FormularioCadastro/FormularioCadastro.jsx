@@ -34,7 +34,7 @@ class FormularioCadastro extends Component {
             >
                 <input 
                     type="text" 
-                    placeholder="Title" 
+                    placeholder="Insert the title..." 
                     className="form-cadastro_input" 
                     onChange={this.handleMudancaTitulo.bind(this)}
                 />
